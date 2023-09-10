@@ -1,11 +1,11 @@
 ---
-title: Value capture theory
+title: Example title
 Date: 2023-09-09
 tags:
   - AAA
 ---
 ---
-bryan et al.
+Authors
 
 ---
 
