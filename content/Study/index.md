@@ -1,0 +1,9 @@
+---
+title: Study
+aliases:
+  - Study
+---
+
+
+
+
