@@ -1,18 +1,20 @@
 ---
 title: Example title
-Date: 2023-09-09
 tags:
-  - AAA
+  - ooo
+draft: 
+aliases: []
 ---
 ---
 Authors
 
----
-
 ### Abstract
-This paper says bleuh 
 
 
-### Reflections
-More bleuhs and mehs
+### Notes
+
+
+
+> [!cite] Reference
+> citation here
 
