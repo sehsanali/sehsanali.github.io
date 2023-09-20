@@ -1,7 +1,8 @@
 ---
-title: Research activities
+title: Research
 aliases:
-  - Research
+  - research
+  - ruminations
 ---
 
 

@@ -1,4 +1,5 @@
 ---
+date: '2023-09-11'
 title: "Aggregating sets of judgements: An impossibility result"
 tags:
   - ooo
@@ -19,15 +20,11 @@ aliases:
   - systematicity
   - judgement aggregation function
   - aggregation
-draft: "false"
+draft:
 ---
 
 ---
 Christian List, Philip Pettit
-
-### Abstract
-Suppose that the members of a certain group each hold a rational set of judgments on some interconnected questions. And imagine that the group itself now has to form a collective, rational set of judgments on those questions. How should it go about dealing with this task? We argue that the question raised is subject to a difficulty that has recently been noticed in discussion of the doctrinal paradox in jurisprudence. And we show that there is a general impossibility theorem that that difficulty illustrates. Our paper describes this impossibility result and provides an exploration of its significance. The result naturally invites comparison with Kenneth Arrow's famous theorem (Arrow, 1963 and 1984; Sen, 1970) and we elaborate that comparison in a companion paper (List and Pettit, 2002). 
-
 ### Notes
 - Judgment is binary on propositions $\phi$ in the agenda $X$.
 - Rationality constraints on the set of judgements (personal or collective) $\Phi \subseteq X$:
@@ -43,12 +40,9 @@ Suppose that the members of a certain group each hold a rational set of judgment
 >[!info] Impossibility result
 > Under the minimal assumptions of Universal Domain, Anonymity and Systematicity there does not exist a judgement aggregation function which is complete, consistent and deductively closed.
 
-Importantly, Arrow's impossibility theorem can be seen as a special case of Judgement impossibility result when preferences are expressed as propositions of the form: $x$ is preferable to $y$.
+Importantly, [[Arrow’s theorem in judgment aggregation|Arrow's impossibility theorem]] can be seen as a special case of judgement impossibility result when preferences are expressed as propositions of the form: $x$ is preferable to $y$. There are attempts at generalizing [[The aggregation of propositional attitudes-towards a general theory|aggregation of various propositional attitudes]] (e.g preferences, judgement, [[Opinion pooling on general agendas|probabilistic aggregation]]) in a unified framework. 
 
->[!question] Questions 
-> - Preference aggregation under limited attention?
-
-
+> 💡 Preference aggregation under [[Stochastic Choice and Consideration Sets|stochastic choice and consideration sets]]?
 
 
 > [!cite] Reference

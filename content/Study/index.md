@@ -1,7 +1,8 @@
 ---
 title: Study
 aliases:
-  - Study
+  - studying
+  - learnings
 ---
 
 
