@@ -3,6 +3,7 @@ title: Mental Models and Transfer Learning
 tags:
   - oo
   - pp
+  - bulb
 draft: 
 aliases:
   - mental models
@@ -22,11 +23,10 @@ Ignacio Esponda, Emanuel Vespa, Sevgi Yuksel
 	- Confidence in misspecified mental model $\rightarrow$ sluggish response/inattentiveness to information (Esponda et al. \[2022\])
 	- Learning in one environment may not _transfer_ to another (subject of this paper)
 
-Using lab data from Esponda et al. \[2022\], the authors conjecture in this paper that individuals engage in unsophisticated forms of learning whereby they simply learn what works best for a particular situation, environment, or parametrization of a game. A sizeable fraction of individuals do not take learning from a repeated(learned) game with feedback over to another similar game with different parametrization. 
+Using lab data from Esponda et al. \[2022\], the authors conjecture in this paper that individuals engage in unsophisticated forms of learning whereby they simply learn what works best for a particular situation, environment, or parametrization of a game. A sizeable fraction of individuals do not take learning from a repeated(learned) game with feedback over to another similar game but with different parametrization. 
 
 
->💡
->If individuals were aware of playing a similar game(with different parameters) after the repeated game then they would have perhaps paid more attention to learning heuristics of the game being played.
+>💡 If individuals were aware of playing a similar game(with different parameters) after the repeated game then they would have perhaps paid more attention to learning heuristics of the game being played. Why and how?
 
 
 > [!cite] References

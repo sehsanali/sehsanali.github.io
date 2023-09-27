@@ -10,7 +10,7 @@ aliases:
 - selective recall
 - similarity
 - interference
-date: 
+date: '2023-09-22'
 ---
 ---
 Pedro Bordalo, John J. Conlon,  Nicola Gennaioli, Spencer Y. Kwon, Andrei Shleifer
@@ -24,5 +24,5 @@ In many economic decisions, people estimate probabilities, such as the likelihoo
 >
 
 > [!cite] Reference
-> Bordalo, Pedro, John J. Conlon, Nicola Gennaioli, Spencer Y. Kwon, and Andrei Shleifer. "Memory and probability." _The Quarterly Journal of Economics_ 138, no. 1 (2023): 265-311.
+> Bordalo Pedro, John J. Conlon, Nicola Gennaioli, Spencer Y. Kwon, and Andrei Shleifer. "Memory and probability." _The Quarterly Journal of Economics_ 138, no. 1 (2023): 265-311.
 

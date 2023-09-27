@@ -1,12 +1,12 @@
 ---
 title: Fully Bayesian aggregation
 tags:
-- ooo
 draft: 'false'
 aliases:
   - aggregation
   - Bayesian
   - judgement
+date: '2023-09-24'
 ---
 ---
 Franz Dietrich

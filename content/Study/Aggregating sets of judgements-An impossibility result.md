@@ -3,6 +3,7 @@ date: '2023-09-11'
 title: "Aggregating sets of judgements: An impossibility result"
 tags:
   - ooo
+  - bulb
 aliases:
   - impossibility
   - consistent
@@ -38,13 +39,11 @@ Christian List, Philip Pettit
 
 
 >[!info] Impossibility result
-> Under the minimal assumptions of Universal Domain, Anonymity and Systematicity there does not exist a judgement aggregation function which is complete, consistent and deductively closed.
+> No judgement aggregation function generates a complete, consistent and deductively closed set of collective judgements which satisfies universal domain, anonymity and systematicity. 
 
-Importantly, [[Arrow’s theorem in judgment aggregation|Arrow's impossibility theorem]] can be seen as a special case of judgement impossibility result when preferences are expressed as propositions of the form: $x$ is preferable to $y$. There are attempts at generalizing [[The aggregation of propositional attitudes-towards a general theory|aggregation of various propositional attitudes]] (e.g preferences, judgement, [[Opinion pooling on general agendas|probabilistic aggregation]]) in a unified framework. 
+Importantly, Arrow's preference aggregation can be seen as a [[Arrow’s theorem in judgment aggregation|special case of judgement aggregation]] when preferences are expressed as propositions of the form, $x$ is _strictly_ preferable to $y$. There are contributions towards generalizing aggregation of various propositional attitudes (e.g preferences, judgement, [[Opinion pooling on general agendas|subjective probabilities]]) in a [[The aggregation of propositional attitudes-towards a general theory|unified framework]]. 
 
-> 💡 Preference aggregation under [[Stochastic Choice and Consideration Sets|stochastic choice and consideration sets]]?
-
+> 💡 Aggregation rules under [[Stochastic Choice and Consideration Sets|stochastic choice and consideration sets]]?
 
 > [!cite] Reference
 > List, Christian, and Philip Pettit. "Aggregating sets of judgments: An impossibility result." _Economics & Philosophy_ 18.1 (2002): 89-110.
-
