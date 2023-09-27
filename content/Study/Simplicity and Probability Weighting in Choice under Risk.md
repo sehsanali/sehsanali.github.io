@@ -7,7 +7,7 @@ draft:
 aliases:
 - violation of EU
 - complexity aversion
-date: '2023-09-26'
+date: '2023-09-24'
 ---
 ---
 Drew Fudenberg, Indira Puri 

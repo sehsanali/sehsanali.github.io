@@ -9,7 +9,7 @@ aliases:
 - revealed preference
 - attention overload
 - RAM
-date: '2023-09-21'
+date: '2023-09-22'
 ---
 ---
 Matias D. Cattaneo, Xinwei Ma, Yusufcan Masatlioglu, Elchin Suleymanov

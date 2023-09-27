@@ -1,5 +1,5 @@
 ---
 title: 'pp'
-draft: 'false'
+draft:
 ---
-Papers and Proceedings
+Published in AEA Papers and Proceedings

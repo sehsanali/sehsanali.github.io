@@ -8,7 +8,7 @@ aliases:
 - stochastic
 - revealed preference
 - attention overload
-date: '2023-09-19'
+date: '2023-09-20'
 ---
 ---
 Matias D. Cattaneo, Paul Cheung, Xinwei Ma, Yusufcan Masatlioglu

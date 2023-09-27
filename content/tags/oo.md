@@ -1,5 +1,5 @@
 ---
 title: 'oo'
-draft: 'false'
+draft: 
 ---
-Two stars
+★★☆ rated in terms of usefulness and relevance to my research agenda.
