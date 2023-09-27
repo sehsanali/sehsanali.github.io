@@ -1,10 +1,11 @@
 ---
-title: Revealed Preferences for Randomization- An Overview
+title: "Revealed Preferences for Randomization: An Overview"
 tags:
  - ooo
  - pp
 draft: 
-aliases: 
+aliases:
+- violation of EU
 date: '2023-09-21'
 ---
 ---
@@ -18,7 +19,7 @@ This paper proceeds by claiming that DM's _desire to randomize_[^1] is an additi
 And then enumerates recent evidence for this deliberate randomization from various experimental approaches e.g. Consecutive repeated choices, convex budget sets, field evidence among other related studies. 
 
 - "Evidence of randomization can be seen as evidence of incompleteness."
-- "Agents whose choices maximize complete, monotone preferences following EU should never strictly prefer to randomize."
+- Agents deliberately randomizing *violate* choices maximizing complete, monotone preferences following EU.
 
 [^1]: E.g. They maybe unsure or have strict preferences for mixtures  (Machina 1985)
 

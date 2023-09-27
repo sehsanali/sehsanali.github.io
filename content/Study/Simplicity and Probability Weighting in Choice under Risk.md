@@ -2,8 +2,10 @@
 title: Simplicity and Probability Weighting in Choice under Risk
 tags:
   - pp
-draft: 
-aliases: 
+draft: 'false'
+aliases:
+- violation of EU
+- complexity aversion
 date: '2023-09-26'
 ---
 ---
