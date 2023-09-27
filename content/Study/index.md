@@ -14,5 +14,6 @@ aliases:
   gtag('config', 'G-YT94GSHYN1');
 </script>
 
-
+  gtag('config', 'G-YT94GSHYN1');
+</script>
 
