@@ -2,7 +2,7 @@
 title: Simplicity and Probability Weighting in Choice under Risk
 tags:
   - pp
-draft: 'false'
+draft: 
 aliases: 
 date: '2023-09-26'
 ---
