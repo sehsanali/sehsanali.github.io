@@ -1,10 +1,7 @@
 ---
-title: "Research"
+title: "Reading"
 aliases:
-  - research
-  - ruminations
 ---
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YT94GSHYN1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -13,4 +10,6 @@ aliases:
 
   gtag('config', 'G-YT94GSHYN1');
 </script>
+
+
 

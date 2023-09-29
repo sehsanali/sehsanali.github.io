@@ -1,5 +1,5 @@
 ---
-date: '2023-09-11'
+date: 2023-09-11
 title: "Aggregating sets of judgements: An impossibility result"
 tags:
   - ooo

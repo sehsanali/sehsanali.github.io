@@ -1,5 +1,5 @@
 ---
-title: Study
+title: "Study"
 aliases:
   - learnings
   - biblio

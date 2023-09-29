@@ -1,5 +1,5 @@
 ---
 title: 'bulb'
 draft:
+description: '💡 symbolizes ideas and insights'
 ---
-💡 symbolizes ideas and insights.
