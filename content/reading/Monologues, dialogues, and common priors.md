@@ -3,7 +3,7 @@ title: Monologues, dialogues, and common priors
 tags: 
 draft: 
 aliases: 
-date:
+date: 2023-09-27
 ---
 ---
 Alfredo Di Tillio, Ehud Lehrer, Dov Samet

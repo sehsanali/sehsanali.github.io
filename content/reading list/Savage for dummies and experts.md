@@ -2,7 +2,7 @@
 title: Savage for dummies and experts
 tags:
   - oo
-draft: 'false'
+draft: 
 aliases:
 - Savage
 - subjective expected utility

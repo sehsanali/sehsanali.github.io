@@ -1,7 +1,7 @@
 ---
 title: Fully Bayesian aggregation
 tags:
-draft: 'false'
+draft: 
 aliases:
   - aggregation
   - Bayesian

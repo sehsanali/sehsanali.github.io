@@ -14,7 +14,7 @@ date: '2023-09-17'
 ---
 Paola Manzini, Marco Mariotti
 ### Notes
-This paper presents a model of two-step choice process. First, a DM consider a subset of alternatives from a menu and then maximizes over that considered set of alternatives. The novelty is to assume a consideration set , for a menu  in the set of all alternatives . Notably the alternatives in  are stochastically determined, in that, any $a$ has a probability[^1] $\gamma(a) \in (0,1)$ to be in the consideration set. Then for primitives[^2] $(\succ, \gamma)$, a random consideration set choice rule is defined as: 
+This paper presents a model of two-step choice process. First, a DM considers a subset of alternatives from a menu and then maximizes over that considered set of alternatives. The novelty is to assume a consideration set , for a menu  in the set of all alternatives . Notably the alternatives in  are stochastically determined, in that, any $a$ has a probability[^1] $\gamma(a) \in (0,1)$ to be in the consideration set. Then for primitives[^2] $(\succ, \gamma)$, a random consideration set choice rule is defined as: 
 
 $$\quad \quad \quad \quad \quad p_{\succ, \gamma}(a, A) = \gamma(a) \prod_{b \in A: b \succ a}(1-\gamma(b)) \quad \forall A \in \mathcal{D}, \forall a \in A $$
 
