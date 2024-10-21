@@ -1,5 +1,5 @@
 ---
-title: Consideration sets in collective choice
+title: Collective consideration under limited attention
 tags:
 - work-in-progress
 draft: 
