@@ -2,7 +2,7 @@
 title: Strategic manipulation in Bayesian dialogues
 tags:
 - ooo
-draft:
+draft: 'true'
 aliases:
 - common prior
 - bayesian dialogue

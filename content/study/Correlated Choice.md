@@ -2,7 +2,7 @@
 title: Correlated Choice
 tags:
 - oo
-draft: 
+draft: 'true'
 aliases:
 - joint choice rule
 - separability

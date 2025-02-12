@@ -1,7 +1,7 @@
 ---
 title: Monologues, dialogues, and common priors
 tags: 
-draft: 
+draft: 'true'
 aliases: 
 date: 2023-09-27
 ---

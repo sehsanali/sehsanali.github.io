@@ -2,7 +2,7 @@
 title: Graphon games-A statistical framework for network games and interventions
 tags:
 
-draft: 
+draft: 'true'
 aliases: 
 date:
 ---

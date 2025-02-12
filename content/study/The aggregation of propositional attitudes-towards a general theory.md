@@ -2,7 +2,7 @@
 title: "The aggregation of propositional attitudes: towards a general theory"
 tags:
   - ooo
-draft:
+draft: 'true'
 aliases:
   - aggregation
   - judgement

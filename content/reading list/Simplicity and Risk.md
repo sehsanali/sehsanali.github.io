@@ -1,7 +1,7 @@
 ---
 title: Simplicity and Risk
 tags: 
-draft: 
+draft: 'true'
 aliases: 
 date:
 ---

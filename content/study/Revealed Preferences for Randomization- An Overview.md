@@ -3,7 +3,7 @@ title: "Revealed Preferences for Randomization: An Overview"
 tags:
  - ooo
  - pp
-draft: 
+draft: 'true'
 aliases:
 - violation of EU
 date: '2023-09-19'

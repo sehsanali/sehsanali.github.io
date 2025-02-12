@@ -2,7 +2,7 @@
 title: Opinion pooling on general agendas
 tags: ooo
 
-draft:
+draft: 'true'
 aliases:
 - probabilistic aggregation
 - linear pooling

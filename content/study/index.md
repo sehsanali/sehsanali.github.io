@@ -4,6 +4,7 @@ aliases:
   - learnings
   - biblio
   - study
+draft:
 ---
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YT94GSHYN1"></script>
 <script>

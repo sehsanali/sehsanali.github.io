@@ -2,7 +2,7 @@
 title: Arrow’s theorem in judgment aggregation
 tags:
 - o
-draft: 
+draft: 'true'
 aliases: 
 - Arrow's impossibility theorem
 - preference aggregation

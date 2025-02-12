@@ -3,7 +3,7 @@ title: Simplicity and Probability Weighting in Choice under Risk
 tags:
   - oo
   - pp
-draft: 
+draft: 'true'
 aliases:
 - violation of EU
 - complexity aversion

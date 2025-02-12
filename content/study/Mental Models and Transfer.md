@@ -4,7 +4,7 @@ tags:
   - oo
   - pp
   - bulb
-draft: 
+draft: 'true'
 aliases:
   - mental models
   - transfer

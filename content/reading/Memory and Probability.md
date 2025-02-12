@@ -1,7 +1,7 @@
 ---
 title: Memory and Probability
 tags: 
-draft: 
+draft: 'true'
 aliases:
   - memory
   - probability

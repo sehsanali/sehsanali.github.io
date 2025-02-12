@@ -21,7 +21,7 @@ aliases:
   - systematicity
   - judgement aggregation function
   - aggregation
-draft:
+draft: 'true'
 ---
 
 ---

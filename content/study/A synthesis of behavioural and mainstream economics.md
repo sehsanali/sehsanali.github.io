@@ -2,7 +2,7 @@
 title: A synthesis of behavioural and mainstream economics
 tags:
 - oo
-draft: 
+draft: 'true'
 aliases:
 - rule rationality
 - act rationality

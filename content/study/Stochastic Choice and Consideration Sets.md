@@ -3,7 +3,7 @@ title: Stochastic Choice and Consideration Sets
 tags:
 - oo
 - bulb
-draft:
+draft: 'true'
 aliases: 
 - stochastic choice and consideration sets
 - consideration set

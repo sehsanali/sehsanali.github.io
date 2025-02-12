@@ -2,7 +2,7 @@
 title: Attention Overload
 tags:
 - ooo
-draft:
+draft: 'true'
 aliases:
 - limited attention
 - stochastic

@@ -2,7 +2,7 @@
 title: Random Attention Model
 tags:
 - oo
-draft:
+draft: 'true'
 aliases:
 - limited attention
 - stochastic
