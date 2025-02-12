@@ -9,7 +9,7 @@ button#explorer {
   display: flex;
   align-items: center;
 
-  & h1 {
+  & h2 {
     font-size: 1rem;
     display: inline-block;
     margin: 0;
@@ -43,12 +43,20 @@ button#explorer {
 #explorer-content {
   list-style: none;
   overflow: hidden;
-  max-height: none;
-  transition: max-height 0.35s ease;
+  overflow-y: auto;
+  max-height: 0px;
+  transition:
+    max-height 0.35s ease,
+    visibility 0s linear 0.35s;
   margin-top: 0.5rem;
+  visibility: hidden;
 
-  &.collapsed > .overflow::after {
-    opacity: 0;
+  &.collapsed {
+    max-height: 100%;
+    transition:
+      max-height 0.35s ease,
+      visibility 0s linear 0s;
+    visibility: visible;
   }
 
   & ul {
@@ -59,11 +67,16 @@ button#explorer {
       max-height 0.35s ease,
       transform 0.35s ease,
       opacity 0.2s ease;
+
     & li > a {
       color: var(--dark);
       opacity: 0.75;
       pointer-events: all;
     }
+  }
+
+  > #explorer-ul {
+    max-height: none;
   }
 }
 
