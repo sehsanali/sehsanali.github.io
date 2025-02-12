@@ -1,5 +1,5 @@
 ---
-title: Consideration sets in collective choice
+title: Collective consideration under limited attention
 tags:
 - work-in-progress
 draft: 
@@ -9,4 +9,4 @@ date: '2024-06-12'
 ---
 
 
-**Abstract:** We explore how agents with limited attention may deliberate to make a collective choice. We envisage a purely communicative deliberation stage before aggregation of preferences in which agents form a collective consideration set from a profile of individual consideration sets drawn randomly from a menu. Such deliberation over the contents of the collective consideration set, assuming stable preferences, allows for the discovery of the items that may be hidden in the plain sight of some agents, thus improving their epistemic competency. We consider bounds on the size of a conceivable collective consideration set and find that the wisdom of crowds may not prevail.
+**Abstract:** We consider agents with limited attention who deliberate to form a menu, called collective consideration set. We envisage purely communicative deliberation processes captured by a collective consideration rule which gives a collective consideration set for a profile of individual consideration sets of the agents that are drawn randomly and independently from a menu via an attention rule. Our main result shows that if the collective consideration rule satisfies a menu neutrality property, then the collective can discover a consideration set with certainty as a large number of agents come together.
