@@ -19,4 +19,4 @@ title: "Research"
 ---
 ## Work-in-progress
 
-###### Strategic set aggregation
+###### Choosing and manipulating the agenda
