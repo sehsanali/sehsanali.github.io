@@ -81,7 +81,7 @@ export default (() => {
             <meta property="twitter:url" content={socialUrl}></meta>
           </>
         )}
-
+	<link rel="stylesheet" href={joinSegments(baseDir, "static/hide-dates.css")} />
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />

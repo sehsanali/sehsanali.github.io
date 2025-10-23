@@ -1,0 +1,13 @@
+/* Hide the content meta (date / reading time) across pages */
+.content-meta,
+.content-meta * /* fallback to hide any children nodes */ {
+  display: none !important;
+}
+
+/* Some pages/components may use slightly different classes; add these just in case */
+.page-meta,
+.folder-meta,
+.time-meta,
+.meta-date {
+  display: none !important;
+}
