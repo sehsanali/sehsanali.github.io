@@ -19,4 +19,3 @@ title: "Research"
 ---
 ## Work-in-progress
 
-###### Choosing and manipulating the agenda
