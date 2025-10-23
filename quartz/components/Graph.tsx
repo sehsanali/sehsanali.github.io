@@ -17,6 +17,8 @@ export interface D3Config {
   opacityScale: number
   removeTags: string[]
   showTags: boolean
+  focusOnHover?: boolean
+  enableRadial?: boolean
 }
 
 interface GraphOptions {
@@ -28,7 +30,7 @@ const defaultOptions: GraphOptions = {
   localGraph: {
     drag: true,
     zoom: true,
-    depth: 2,
+    depth: 1,
     scale: 1.1,
     repelForce: 0.5,
     centerForce: 0.3,
@@ -37,6 +39,8 @@ const defaultOptions: GraphOptions = {
     opacityScale: 1,
     showTags: true,
     removeTags: [],
+    focusOnHover: false,
+    enableRadial: false,
   },
   globalGraph: {
     drag: true,
@@ -50,6 +54,8 @@ const defaultOptions: GraphOptions = {
     opacityScale: 1,
     showTags: true,
     removeTags: [],
+    focusOnHover: true,
+    enableRadial: true,
   },
 }
 
