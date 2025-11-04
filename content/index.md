@@ -2,8 +2,8 @@
 ---
 title: "Syed Ehsan Ali"
 ---
+![[banner.jpg]]
 
-![banner](./banner.jpg)
 Hi, I am a PhD student in Economics at [Ca' Foscari University of Venice](https://www.unive.it/). 
 
 
